@@ -1,0 +1,11 @@
+@import "../node_modules/susy/sass/susy";
+
+$about: ( 
+    container: 1170px, 
+    columns: 12,
+    math: fluid,
+    column-width: false,
+    gutters: 1/4, 
+    gutter-position: split,
+    //debug: (image: show)
+);

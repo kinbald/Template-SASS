@@ -1,0 +1,8 @@
+node_modules
+npm-debug.log
+*.css
+js/app.js
+.idea
+.sass-cache
+*.css.map
+.directory
